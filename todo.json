@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "title": "hello",
+      "description": "how",
+      "completed": true
+    },
+    {
+      "title": "ashutosh",
+      "description": "how are you my boy",
+      "completed": true
+    },
+    {
+      "title": "divya's birthday",
+      "description": "happy birthday boii",
+      "completed": true
+    }
+  ]
+}
